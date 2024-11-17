@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm install -g ffmpeg && node index.js"
   },
   "keywords": [
     "termux",
@@ -104,10 +104,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fortunatusmokaya/dreaded-v2.git"
+    "url": "git+https://github.com/Devenlee250/dreaded-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/Fortunatusmokaya/dreaded-v2/issues"
+    "url": "https://github.com/Devenlee250/dreaded-v2/issues"
   },
-  "homepage": "https://github.com/Fortunatusmokaya/dreaded-v2#readme"
+  "homepage": "https://github.com/Devenlee250/dreaded-v2#readme"
 }
