@@ -40,7 +40,7 @@
 ## Pairing:
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://pair.dreaded.site). `or` [`HERE`](https://new-pair-5cil.onrender.com).***
+- ***`Get your Session Id` by  [`PAIRING CODE HERE`](https://new-pair-5cil.onrender.com). `or` [`HERE`](https://new-pair-5cil.onrender.com).***
 
 
 
